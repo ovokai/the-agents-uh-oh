@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const ENTRY = "bluffing";
+const ENTRY = "Certainly!";
 
 try {
   mkdirSync("/output", { recursive: true });
